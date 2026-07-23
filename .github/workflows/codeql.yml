@@ -1,4 +1,4 @@
-yamlname: "CodeQL WebGoat Scan"
+name: "CodeQL WebGoat Scan"
 
 on:
   push:
